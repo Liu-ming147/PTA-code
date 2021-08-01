@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "将x的平方赋值给y", "将x的平方赋值给y\将x的平方赋值给y.vcxproj", "{89987530-3D15-4077-8237-41CDF91BDE30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89987530-3D15-4077-8237-41CDF91BDE30}.Debug|Win32.ActiveCfg = Debug|Win32
+		{89987530-3D15-4077-8237-41CDF91BDE30}.Debug|Win32.Build.0 = Debug|Win32
+		{89987530-3D15-4077-8237-41CDF91BDE30}.Release|Win32.ActiveCfg = Release|Win32
+		{89987530-3D15-4077-8237-41CDF91BDE30}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

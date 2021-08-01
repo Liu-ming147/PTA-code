@@ -1,0 +1,40 @@
+#include <stdio.h>
+
+int fn(int a, int n);
+int SumA(int a, int n);
+
+int main()
+{
+	int a, n;
+
+	scanf("%d %d", &a, &n);
+	printf("fn(%d, %d) = %d\n", a, n, fn(a, n));
+	printf("s = %d\n", SumA(a, n));
+
+	return 0;
+}
+
+int fn(int a, int n)
+{
+	int num = 0;
+
+	for (int i = 1; i <= n; ++i)
+	{
+		int k = 1;
+		for (int j = 1; j < i; ++j)
+		{
+			k *= 10;
+		}
+		num += a * k;
+	}
+	return num;
+}
+int SumA(int a, int n)
+{
+	int sum = 0;
+	for (int i = 1; i <= n; ++i)
+	{
+		sum += fn(a, i);
+	}
+	return sum;
+}
