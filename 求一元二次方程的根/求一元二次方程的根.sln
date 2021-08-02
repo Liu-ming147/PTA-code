@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "求一元二次方程的根", "求一元二次方程的根\求一元二次方程的根.vcxproj", "{CBFC22CE-1DDF-4DDA-80F3-4259CC1212CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBFC22CE-1DDF-4DDA-80F3-4259CC1212CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CBFC22CE-1DDF-4DDA-80F3-4259CC1212CD}.Debug|Win32.Build.0 = Debug|Win32
+		{CBFC22CE-1DDF-4DDA-80F3-4259CC1212CD}.Release|Win32.ActiveCfg = Release|Win32
+		{CBFC22CE-1DDF-4DDA-80F3-4259CC1212CD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
