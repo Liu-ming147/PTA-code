@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{CE4904DE-362F-4B29-9D3D-975623D62146}</ProjectGuid>
+    <ProjectGuid>{923C9F13-4083-4746-A800-6527AB2CED47}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>韩信点兵</RootNamespace>
+    <RootNamespace>特殊a串数列求和</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -76,7 +76,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="韩星点兵.c" />
+    <ClCompile Include="特殊a串数列求和.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

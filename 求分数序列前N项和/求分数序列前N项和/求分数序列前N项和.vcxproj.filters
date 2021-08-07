@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="韩星点兵.c">
+    <ClCompile Include="求分数序列前N项和.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
