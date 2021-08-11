@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "选择法排序", "选择法排序\选择法排序.vcxproj", "{84749F59-62D6-4E27-A40F-56D933CAEEDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84749F59-62D6-4E27-A40F-56D933CAEEDE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{84749F59-62D6-4E27-A40F-56D933CAEEDE}.Debug|Win32.Build.0 = Debug|Win32
+		{84749F59-62D6-4E27-A40F-56D933CAEEDE}.Release|Win32.ActiveCfg = Release|Win32
+		{84749F59-62D6-4E27-A40F-56D933CAEEDE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
